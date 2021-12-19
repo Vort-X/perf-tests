@@ -1,0 +1,151 @@
+RUN	simulations.StressPeakGetProductsByCategorySimulation	stresspeakgetproductsbycategorysimulation	1639927190306	 	3.7.2
+USER	Get products in a specific category scenario	START	1639927191916
+USER	Get products in a specific category scenario	START	1639927192204
+USER	Get products in a specific category scenario	START	1639927191787
+USER	Get products in a specific category scenario	START	1639927192156
+USER	Get products in a specific category scenario	START	1639927192012
+USER	Get products in a specific category scenario	START	1639927192093
+USER	Get products in a specific category scenario	START	1639927192251
+USER	Get products in a specific category scenario	START	1639927192283
+USER	Get products in a specific category scenario	START	1639927192330
+USER	Get products in a specific category scenario	START	1639927192361
+USER	Get products in a specific category scenario	START	1639927192393
+USER	Get products in a specific category scenario	START	1639927192425
+USER	Get products in a specific category scenario	START	1639927192457
+USER	Get products in a specific category scenario	START	1639927192488
+USER	Get products in a specific category scenario	START	1639927192529
+USER	Get products in a specific category scenario	START	1639927192535
+USER	Get products in a specific category scenario	START	1639927192567
+USER	Get products in a specific category scenario	START	1639927192598
+USER	Get products in a specific category scenario	START	1639927192613
+USER	Get products in a specific category scenario	START	1639927192644
+USER	Get products in a specific category scenario	START	1639927192660
+USER	Get products in a specific category scenario	START	1639927192690
+USER	Get products in a specific category scenario	START	1639927192706
+USER	Get products in a specific category scenario	START	1639927192737
+USER	Get products in a specific category scenario	START	1639927192753
+USER	Get products in a specific category scenario	START	1639927192785
+USER	Get products in a specific category scenario	START	1639927192800
+USER	Get products in a specific category scenario	START	1639927192832
+REQUEST		Get products in a specific category request	1639927192013	1639927192825	OK	 
+USER	Get products in a specific category scenario	START	1639927192847
+USER	Get products in a specific category scenario	END	1639927192848
+REQUEST		Get products in a specific category request	1639927192362	1639927192876	OK	 
+USER	Get products in a specific category scenario	END	1639927192877
+USER	Get products in a specific category scenario	START	1639927192879
+USER	Get products in a specific category scenario	START	1639927192895
+REQUEST		Get products in a specific category request	1639927192283	1639927192923	OK	 
+USER	Get products in a specific category scenario	END	1639927192924
+USER	Get products in a specific category scenario	START	1639927192927
+USER	Get products in a specific category scenario	START	1639927192958
+REQUEST		Get products in a specific category request	1639927192099	1639927192968	OK	 
+USER	Get products in a specific category scenario	END	1639927192969
+USER	Get products in a specific category scenario	START	1639927192973
+USER	Get products in a specific category scenario	START	1639927193005
+REQUEST		Get products in a specific category request	1639927192252	1639927193016	OK	 
+REQUEST		Get products in a specific category request	1639927192157	1639927193016	OK	 
+USER	Get products in a specific category scenario	END	1639927193017
+USER	Get products in a specific category scenario	END	1639927193017
+USER	Get products in a specific category scenario	START	1639927193021
+USER	Get products in a specific category scenario	START	1639927193052
+REQUEST		Get products in a specific category request	1639927192205	1639927193092	OK	 
+REQUEST		Get products in a specific category request	1639927191843	1639927193093	OK	 
+USER	Get products in a specific category scenario	END	1639927193093
+USER	Get products in a specific category scenario	END	1639927193094
+USER	Get products in a specific category scenario	START	1639927193094
+USER	Get products in a specific category scenario	START	1639927193116
+USER	Get products in a specific category scenario	START	1639927193148
+USER	Get products in a specific category scenario	START	1639927193178
+REQUEST		Get products in a specific category request	1639927191917	1639927193183	OK	 
+USER	Get products in a specific category scenario	END	1639927193184
+USER	Get products in a specific category scenario	START	1639927193211
+REQUEST		Get products in a specific category request	1639927192394	1639927193233	OK	 
+USER	Get products in a specific category scenario	END	1639927193235
+USER	Get products in a specific category scenario	START	1639927193236
+REQUEST		Get products in a specific category request	1639927192457	1639927193272	OK	 
+USER	Get products in a specific category scenario	START	1639927193273
+USER	Get products in a specific category scenario	END	1639927193274
+REQUEST		Get products in a specific category request	1639927192489	1639927193309	OK	 
+USER	Get products in a specific category scenario	END	1639927193310
+USER	Get products in a specific category scenario	START	1639927193319
+USER	Get products in a specific category scenario	START	1639927193367
+REQUEST		Get products in a specific category request	1639927192331	1639927193388	OK	 
+USER	Get products in a specific category scenario	END	1639927193389
+REQUEST		Get products in a specific category request	1639927192426	1639927193398	OK	 
+USER	Get products in a specific category scenario	END	1639927193399
+USER	Get products in a specific category scenario	START	1639927193414
+USER	Get products in a specific category scenario	START	1639927193478
+REQUEST		Get products in a specific category request	1639927192598	1639927193520	OK	 
+USER	Get products in a specific category scenario	END	1639927193521
+REQUEST		Get products in a specific category request	1639927192529	1639927193527	OK	 
+USER	Get products in a specific category scenario	END	1639927193528
+REQUEST		Get products in a specific category request	1639927192536	1639927193529	OK	 
+USER	Get products in a specific category scenario	END	1639927193530
+USER	Get products in a specific category scenario	START	1639927193541
+REQUEST		Get products in a specific category request	1639927192614	1639927193591	OK	 
+USER	Get products in a specific category scenario	END	1639927193592
+REQUEST		Get products in a specific category request	1639927192645	1639927193626	OK	 
+USER	Get products in a specific category scenario	END	1639927193627
+USER	Get products in a specific category scenario	START	1639927193637
+REQUEST		Get products in a specific category request	1639927192691	1639927193667	OK	 
+USER	Get products in a specific category scenario	END	1639927193668
+REQUEST		Get products in a specific category request	1639927192660	1639927193754	OK	 
+USER	Get products in a specific category scenario	END	1639927193754
+REQUEST		Get products in a specific category request	1639927192568	1639927193776	OK	 
+USER	Get products in a specific category scenario	END	1639927193777
+REQUEST		Get products in a specific category request	1639927192754	1639927193802	OK	 
+USER	Get products in a specific category scenario	END	1639927193802
+REQUEST		Get products in a specific category request	1639927192801	1639927193845	OK	 
+USER	Get products in a specific category scenario	END	1639927193846
+REQUEST		Get products in a specific category request	1639927192706	1639927193877	OK	 
+USER	Get products in a specific category scenario	END	1639927193878
+REQUEST		Get products in a specific category request	1639927192738	1639927193964	OK	 
+USER	Get products in a specific category scenario	END	1639927193965
+REQUEST		Get products in a specific category request	1639927192879	1639927194034	OK	 
+USER	Get products in a specific category scenario	END	1639927194035
+REQUEST		Get products in a specific category request	1639927192786	1639927194059	OK	 
+REQUEST		Get products in a specific category request	1639927192847	1639927194059	OK	 
+USER	Get products in a specific category scenario	END	1639927194060
+USER	Get products in a specific category scenario	END	1639927194060
+REQUEST		Get products in a specific category request	1639927192833	1639927194101	OK	 
+USER	Get products in a specific category scenario	END	1639927194102
+REQUEST		Get products in a specific category request	1639927193053	1639927194161	OK	 
+USER	Get products in a specific category scenario	END	1639927194161
+REQUEST		Get products in a specific category request	1639927192973	1639927194238	OK	 
+USER	Get products in a specific category scenario	END	1639927194239
+REQUEST		Get products in a specific category request	1639927193006	1639927194276	OK	 
+USER	Get products in a specific category scenario	END	1639927194277
+REQUEST		Get products in a specific category request	1639927192895	1639927194284	OK	 
+USER	Get products in a specific category scenario	END	1639927194284
+REQUEST		Get products in a specific category request	1639927192959	1639927194342	OK	 
+USER	Get products in a specific category scenario	END	1639927194343
+REQUEST		Get products in a specific category request	1639927193273	1639927194460	OK	 
+REQUEST		Get products in a specific category request	1639927193094	1639927194461	OK	 
+USER	Get products in a specific category scenario	END	1639927194461
+USER	Get products in a specific category scenario	END	1639927194461
+REQUEST		Get products in a specific category request	1639927193021	1639927194518	OK	 
+USER	Get products in a specific category scenario	END	1639927194519
+REQUEST		Get products in a specific category request	1639927193178	1639927194559	OK	 
+USER	Get products in a specific category scenario	END	1639927194559
+REQUEST		Get products in a specific category request	1639927193117	1639927194614	OK	 
+USER	Get products in a specific category scenario	END	1639927194614
+REQUEST		Get products in a specific category request	1639927193149	1639927194684	OK	 
+USER	Get products in a specific category scenario	END	1639927194685
+REQUEST		Get products in a specific category request	1639927193212	1639927194685	OK	 
+USER	Get products in a specific category scenario	END	1639927194686
+REQUEST		Get products in a specific category request	1639927193236	1639927194698	OK	 
+USER	Get products in a specific category scenario	END	1639927194699
+REQUEST		Get products in a specific category request	1639927193319	1639927194721	OK	 
+USER	Get products in a specific category scenario	END	1639927194722
+REQUEST		Get products in a specific category request	1639927193415	1639927194818	OK	 
+USER	Get products in a specific category scenario	END	1639927194818
+REQUEST		Get products in a specific category request	1639927193479	1639927194894	OK	 
+USER	Get products in a specific category scenario	END	1639927194895
+REQUEST		Get products in a specific category request	1639927193367	1639927194906	OK	 
+USER	Get products in a specific category scenario	END	1639927194907
+REQUEST		Get products in a specific category request	1639927193542	1639927194943	OK	 
+USER	Get products in a specific category scenario	END	1639927194944
+REQUEST		Get products in a specific category request	1639927193638	1639927194962	OK	 
+USER	Get products in a specific category scenario	END	1639927194962
+REQUEST		Get products in a specific category request	1639927192927	1639927195415	OK	 
+USER	Get products in a specific category scenario	END	1639927195416

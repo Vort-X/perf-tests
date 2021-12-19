@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.RampRateGetSingleUserSimulation",
+  "simulationId": "ramprategetsingleusersimulation",
+  "start": 1639927283223,
+  "description": "",
+  "scenarios": ["Get a single user scenario"],
+  "assertions": [
+
+  ]
+}

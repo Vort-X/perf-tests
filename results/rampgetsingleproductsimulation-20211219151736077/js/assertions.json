@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.RampGetSingleProductSimulation",
+  "simulationId": "rampgetsingleproductsimulation",
+  "start": 1639927056077,
+  "description": "",
+  "scenarios": ["Get single product scenario"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.StressPeakGetProductsByCategorySimulation",
+  "simulationId": "stresspeakgetproductsbycategorysimulation",
+  "start": 1639927190306,
+  "description": "",
+  "scenarios": ["Get products in a specific category scenario"],
+  "assertions": [
+
+  ]
+}

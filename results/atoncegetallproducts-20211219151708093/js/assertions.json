@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AtOnceGetAllProducts",
+  "simulationId": "atoncegetallproducts",
+  "start": 1639927028093,
+  "description": "",
+  "scenarios": ["Getting all products scenario"],
+  "assertions": [
+
+  ]
+}
